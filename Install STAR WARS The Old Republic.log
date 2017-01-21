@@ -1,0 +1,223 @@
+[Sunday Nov 06 11:24:55 2016] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday Nov 06 11:24:55 2016]          STAR WARS: The Old Republic v1.00.0.2 installer ran
+[Sunday Nov 06 11:24:55 2016] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday Nov 06 11:24:55 2016] CallParameters=[/src="C:\Users\User\AppData\Local\Temp\InstallSWTOR"]
+[Sunday Nov 06 11:24:55 2016] all mutex checks cleared
+[Sunday Nov 06 11:24:55 2016] GetOptions [/src="C:\Users\User\AppData\Local\Temp\InstallSWTOR"] "/src=" = [C:\Users\User\AppData\Local\Temp\InstallSWTOR]
+[Sunday Nov 06 11:24:55 2016] SourceDirectory set to [C:\Users\User\AppData\Local\Temp\InstallSWTOR]
+[Sunday Nov 06 11:24:55 2016] Using TEMP directory C:\Users\User\AppData\Local\Temp\InstallSWTOR
+[Sunday Nov 06 11:24:55 2016] Source directory=C:\Users\User\AppData\Local\Temp\InstallSWTOR
+[Sunday Nov 06 11:24:56 2016] Command-line language=
+[Sunday Nov 06 11:24:56 2016] System Default Language ID=2057
+[Sunday Nov 06 11:24:56 2016] Language [2057] is not supported in this installer - setting English
+[Sunday Nov 06 11:24:56 2016] Supported OS Language=en
+[Sunday Nov 06 11:24:56 2016] ProgramLocation from registry [SOFTWARE\BioWare\Star Wars-The Old Republic] [Install Dir]=[J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic]
+[Sunday Nov 06 11:24:56 2016] Installed game validation failed at "J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic"
+[Sunday Nov 06 11:24:56 2016] If Empty() then Peeking into C:\Users\User\AppData\Local\Temp\InstallSWTOR\data\installmanifest_ru.ini
+[Sunday Nov 06 11:24:56 2016] Found: 'installmanifest_de.ini', adding to lang select
+[Sunday Nov 06 11:24:56 2016] Found: 'installmanifest_fr.ini', adding to lang select
+[Sunday Nov 06 11:24:56 2016] Found: 'installmanifest_en.ini', adding to lang select
+[Sunday Nov 06 11:24:56 2016]  no command-line language set
+[Sunday Nov 06 11:24:56 2016] LANGUAGE_SELECT_RANDOMIZE=0
+[Sunday Nov 06 11:24:56 2016] nsisBWLangSelect::LangSelect R1=0 R2=0 R3=0
+[Sunday Nov 06 11:24:57 2016] nsisBWLangSelect::LangSelect returned 1033
+[Sunday Nov 06 11:24:57 2016] User admin status: Admin
+[Sunday Nov 06 11:24:57 2016] SetupInstallManifest
+[Sunday Nov 06 11:24:57 2016] Setting InstallManifestFile to C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\installmanifest.ini
+[Sunday Nov 06 11:24:57 2016] Game Build: 21544
+[Sunday Nov 06 11:24:57 2016] SKU: SWTOR
+[Sunday Nov 06 11:24:57 2016] GetInstalledFileSize
+[Sunday Nov 06 11:24:57 2016] GetInstalledFileSize - NumberOfFiles=2
+[Sunday Nov 06 11:24:57 2016] GetInstalledFileSize - File#1; file size in Kb=18032
+[Sunday Nov 06 11:24:57 2016] GetInstalledFileSize - File#2; file size in Kb=0
+[Sunday Nov 06 11:24:57 2016] GetInstalledFileSize - InstallSize=18032; InstallSizeFudged=26258032
+[Sunday Nov 06 11:24:57 2016] Detected OS: 7 Service Pack 1
+[Sunday Nov 06 11:24:57 2016] OS response = 0
+[Sunday Nov 06 11:24:57 2016] DirectX Version: core=11 - enum=43 - DirectX June 2010
+[Sunday Nov 06 11:24:57 2016] PageFunction_Welcome_Pre
+[Sunday Nov 06 11:24:58 2016] Welcome page show
+[Sunday Nov 06 11:24:58 2016] License page show
+[Sunday Nov 06 11:24:58 2016] License page really show
+[Sunday Nov 06 11:25:02 2016] +PageFunction_ExpressCustom start (page 3)
+[Sunday Nov 06 11:25:02 2016]  ProgramLocation null; setting to C:\Program Files (x86)\Electronic Arts\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:02 2016]  StartMenuLocationFullPath is null, setting Start Menu Express values
+[Sunday Nov 06 11:25:02 2016] +SetStartMenuExpressValues start
+[Sunday Nov 06 11:25:02 2016]  PRODUCT_STARTMENU=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:02 2016]  sanitized PRODUCT_STARTMENU=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:02 2016]  StartMenuOption=5 - start menu entries in all OSes
+[Sunday Nov 06 11:25:02 2016] -SetStartMenuExpressValues end
+[Sunday Nov 06 11:25:02 2016] +SetShortcutsExpressValues start
+[Sunday Nov 06 11:25:02 2016] -SetShortcutsExpressValues end
+[Sunday Nov 06 11:25:02 2016]  ConvertKBtoGB 26258032 KB=25.0 GB
+[Sunday Nov 06 11:25:02 2016]  GetFreeDriveSpaceInGB=0.9
+[Sunday Nov 06 11:25:02 2016]  free space in KB=991384 - InstallSizeFudged=26258032
+[Sunday Nov 06 11:25:02 2016]  StartMenuLocation=EA\BioWare\Star Wars - The Old Republic; first char=E
+[Sunday Nov 06 11:25:02 2016]  nsDialogs::Show
+[Sunday Nov 06 11:25:04 2016] +PageFunction_ExpressCustom_RadioButtonClick start
+[Sunday Nov 06 11:25:04 2016]  RadioButton_ExpressInstall state = 1
+[Sunday Nov 06 11:25:04 2016]  RadioButton_ExpressInstall Express selected
+[Sunday Nov 06 11:25:04 2016]  RadioButton_ExpressInstall state = 1
+[Sunday Nov 06 11:25:04 2016] +SetStartMenuExpressValues start
+[Sunday Nov 06 11:25:04 2016]  PRODUCT_STARTMENU=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:04 2016]  sanitized PRODUCT_STARTMENU=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:04 2016]  StartMenuOption=5 - start menu entries in all OSes
+[Sunday Nov 06 11:25:04 2016] -SetStartMenuExpressValues end
+[Sunday Nov 06 11:25:04 2016] +SetShortcutsExpressValues start
+[Sunday Nov 06 11:25:04 2016] -SetShortcutsExpressValues end
+[Sunday Nov 06 11:25:04 2016]  ConvertKBtoGB 26258032 KB=25.0 GB
+[Sunday Nov 06 11:25:04 2016]  GetFreeDriveSpaceInGB=0.9
+[Sunday Nov 06 11:25:04 2016]  free space in KB=991384 - InstallSizeFudged=26258032
+[Sunday Nov 06 11:25:04 2016]  StartMenuLocation=EA\BioWare\Star Wars - The Old Republic; first char=E
+[Sunday Nov 06 11:25:04 2016] -PageFunction_ExpressCustom_RadioButtonClick end
+[Sunday Nov 06 11:25:04 2016] +PageFunction_ExpressCustom_RadioButtonClick start
+[Sunday Nov 06 11:25:04 2016]  RadioButton_ExpressInstall state = 0
+[Sunday Nov 06 11:25:04 2016]  RadioButton_ExpressInstall Custom selected
+[Sunday Nov 06 11:25:04 2016] -PageFunction_ExpressCustom_RadioButtonClick end
+[Sunday Nov 06 11:25:05 2016] +PageFunction_ExpressCustom_RadioButtonClick start
+[Sunday Nov 06 11:25:05 2016]  RadioButton_ExpressInstall state = 1
+[Sunday Nov 06 11:25:05 2016]  RadioButton_ExpressInstall Express selected
+[Sunday Nov 06 11:25:05 2016]  RadioButton_ExpressInstall state = 1
+[Sunday Nov 06 11:25:05 2016] +SetStartMenuExpressValues start
+[Sunday Nov 06 11:25:05 2016]  PRODUCT_STARTMENU=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:05 2016]  sanitized PRODUCT_STARTMENU=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:05 2016]  StartMenuOption=5 - start menu entries in all OSes
+[Sunday Nov 06 11:25:05 2016] -SetStartMenuExpressValues end
+[Sunday Nov 06 11:25:05 2016] +SetShortcutsExpressValues start
+[Sunday Nov 06 11:25:05 2016] -SetShortcutsExpressValues end
+[Sunday Nov 06 11:25:05 2016]  ConvertKBtoGB 26258032 KB=25.0 GB
+[Sunday Nov 06 11:25:05 2016]  GetFreeDriveSpaceInGB=0.9
+[Sunday Nov 06 11:25:05 2016]  free space in KB=991384 - InstallSizeFudged=26258032
+[Sunday Nov 06 11:25:05 2016]  StartMenuLocation=EA\BioWare\Star Wars - The Old Republic; first char=E
+[Sunday Nov 06 11:25:05 2016] -PageFunction_ExpressCustom_RadioButtonClick end
+[Sunday Nov 06 11:25:07 2016] +PageFunction_ExpressCustom_RadioButtonClick start
+[Sunday Nov 06 11:25:07 2016]  RadioButton_ExpressInstall state = 0
+[Sunday Nov 06 11:25:07 2016]  RadioButton_ExpressInstall Custom selected
+[Sunday Nov 06 11:25:07 2016] -PageFunction_ExpressCustom_RadioButtonClick end
+[Sunday Nov 06 11:25:07 2016] +PageFunction_ExpressCustom_Leave start
+[Sunday Nov 06 11:25:07 2016] -PageFunction_ExpressCustom_Leave end
+[Sunday Nov 06 11:25:07 2016] -PageFunction_ExpressCustom end
+[Sunday Nov 06 11:25:07 2016] PageFunction_BWDirSelect
+[Sunday Nov 06 11:25:07 2016]  DirSelect display
+[Sunday Nov 06 11:25:12 2016] +PageFunction_BWDirSelect_Leave start
+[Sunday Nov 06 11:25:12 2016] -PageFunction_BWDirSelect_Leave end
+[Sunday Nov 06 11:25:12 2016] Checking for J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\\winpatcher.exe
+[Sunday Nov 06 11:25:12 2016] Directory select returned path: J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\
+[Sunday Nov 06 11:25:12 2016] PageFunction_StartMenu_Pre (page 5)
+[Sunday Nov 06 11:25:12 2016]  StartMenuLocation=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:12 2016]  StartMenuLocation2=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:14 2016] +PageFunction_StartMenu_Leave start
+[Sunday Nov 06 11:25:14 2016]  StartMenuLocation retrieved from Start Menu select page=EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:14 2016]  len(EA\BioWare\Star Wars - The Old Republic)=39 ; len(C:\ProgramData\Microsoft\Windows\Start Menu\Programs)=52 ; StartMenuMaxLength=20
+[Sunday Nov 06 11:25:14 2016]  Start Menu max path len=111
+[Sunday Nov 06 11:25:14 2016] -PageFunction_StartMenu_Leave end
+[Sunday Nov 06 11:25:14 2016] +PageFunction_Shortcuts start
+[Sunday Nov 06 11:25:14 2016] PageFunction_Shortcuts nsDialogs::Show
+[Sunday Nov 06 11:25:18 2016] +PageFunction_Shortcuts_Leave start
+[Sunday Nov 06 11:25:18 2016]  CreateDesktopShortcut=true
+[Sunday Nov 06 11:25:18 2016]  CreateQuickLaunchShortcut=true
+[Sunday Nov 06 11:25:18 2016] -PageFunction_Shortcuts_Leave end
+[Sunday Nov 06 11:25:18 2016] -PageFunction_Shortcuts end
+[Sunday Nov 06 11:25:18 2016] Origin page show
+[Sunday Nov 06 11:25:18 2016] PageFunction_ORIGIN_Leave
+[Sunday Nov 06 11:25:18 2016] PageFunction_InstFilesPre
+[Sunday Nov 06 11:25:18 2016] Main install section
+[Sunday Nov 06 11:25:18 2016] Extract Saferun & DLL (64 bit)
+[Sunday Nov 06 11:25:18 2016] ProcessInstallManifest
+[Sunday Nov 06 11:25:18 2016]  - Name=Star Wars The Old Republic
+[Sunday Nov 06 11:25:18 2016]  - Size=18465507
+[Sunday Nov 06 11:25:18 2016]  - URL=swtor.rar
+[Sunday Nov 06 11:25:18 2016]  - Disk=1
+[Sunday Nov 06 11:25:18 2016] Processing File 1 (Star Wars The Old Republic)
+[Sunday Nov 06 11:25:18 2016] Looking for C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor.rar
+[Sunday Nov 06 11:25:18 2016] GetNextFile "swtor.rar" "C:\Users\User\AppData\Local\Temp\InstallSWTOR\"
+[Sunday Nov 06 11:25:18 2016] GetNextFile - FileNameDest=C:\Users\User\AppData\Local\Temp\InstallSWTOR\
+[Sunday Nov 06 11:25:18 2016] SourceDirectory set to C:\Users\User\AppData\Local\Temp\InstallSWTOR
+[Sunday Nov 06 11:25:18 2016] Found at C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor.rar
+[Sunday Nov 06 11:25:18 2016] Extracting C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor.rar to J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic...
+[Sunday Nov 06 11:25:18 2016] Extracting: /Language en /progresspercent 10000 /settotalK 18032 'C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor.rar' 'J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic'
+[Sunday Nov 06 11:25:19 2016]  - extract OK
+[Sunday Nov 06 11:25:19 2016]  - Name=Star Wars The Old Republic
+[Sunday Nov 06 11:25:19 2016]  - Size=804
+[Sunday Nov 06 11:25:19 2016]  - URL=swtor0.rar
+[Sunday Nov 06 11:25:19 2016]  - Disk=1
+[Sunday Nov 06 11:25:19 2016] Processing File 2 (Star Wars The Old Republic)
+[Sunday Nov 06 11:25:19 2016] Looking for C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor0.rar
+[Sunday Nov 06 11:25:19 2016] GetNextFile "swtor0.rar" "C:\Users\User\AppData\Local\Temp\InstallSWTOR\"
+[Sunday Nov 06 11:25:19 2016] GetNextFile - FileNameDest=C:\Users\User\AppData\Local\Temp\InstallSWTOR\
+[Sunday Nov 06 11:25:19 2016] SourceDirectory set to C:\Users\User\AppData\Local\Temp\InstallSWTOR
+[Sunday Nov 06 11:25:19 2016] Found at C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor0.rar
+[Sunday Nov 06 11:25:19 2016] Extracting C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor0.rar to J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic...
+[Sunday Nov 06 11:25:19 2016] Extracting: /Language en /progresspercent 0 /settotalK 0 'C:\Users\User\AppData\Local\Temp\InstallSWTOR\swtor0.rar' 'J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic'
+[Sunday Nov 06 11:25:19 2016]  - extract OK
+[Sunday Nov 06 11:25:19 2016] Running uninstaller installer - C:\Users\User\AppData\Local\Temp\InstallSWTOR\data\Star Wars - The Old Republic Uninstaller.exe /frominstaller /estimatedsize=18032
+[Sunday Nov 06 11:25:19 2016]  - result: 0
+[Sunday Nov 06 11:25:19 2016] +CreateStartMenuShortcuts start
+[Sunday Nov 06 11:25:19 2016] Create C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic
+[Sunday Nov 06 11:25:19 2016] +GeneratedCreateStartMenuShortcuts start
+[Sunday Nov 06 11:25:19 2016] Creating short cut "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic\Star Wars - The Old Republic.lnk" "J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe" ""
+[Sunday Nov 06 11:25:19 2016] Creating short cut "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic\Uninstall Star Wars - The Old Republic.lnk" "C:\Program Files (x86)\Common Files\BioWare\Uninstall Star Wars - The Old Republic.exe" ""
+[Sunday Nov 06 11:25:19 2016] Creating EUALA short cut "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic\View License.lnk" "J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\EUALAs\EUALA_en.rtf" ""
+[Sunday Nov 06 11:25:19 2016] Creating cust support short cut "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic\SWTOR Customer Support.lnk" "J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\SWTOR Customer Support.url" ""
+[Sunday Nov 06 11:25:19 2016] Creating readme short cut "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic\View Readme.lnk" "J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\readmes\readme_en.txt" ""
+[Sunday Nov 06 11:25:19 2016] -GeneratedCreateStartMenuShortcuts end
+[Sunday Nov 06 11:25:19 2016] -CreateStartMenuShortcuts end
+[Sunday Nov 06 11:25:19 2016] +CreateOtherShortcuts start
+[Sunday Nov 06 11:25:19 2016] DT: C:\Users\Public\Desktop\Star Wars - The Old Republic.lnk J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe
+[Sunday Nov 06 11:25:19 2016] Creating C:\Users\Public\Desktop\Star Wars - The Old Republic.lnk J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe
+[Sunday Nov 06 11:25:19 2016] QL Shortcut: C:\Users\User\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Star Wars - The Old Republic.lnk
+[Sunday Nov 06 11:25:19 2016] Creating C:\Users\User\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Star Wars - The Old Republic.lnk J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe
+[Sunday Nov 06 11:25:19 2016] -CreateOtherShortcuts end
+[Sunday Nov 06 11:25:19 2016] SetupGDF - checking for existing Game Explorer entry
+[Sunday Nov 06 11:25:19 2016] - removing previous Game Explorer entry: {FE128469-6C0F-43E8-B0DA-DE8ADFAE2276}
+[Sunday Nov 06 11:25:19 2016] - adding to Game Explorer
+[Sunday Nov 06 11:25:19 2016] -- AddToGameExplorer 'J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\SWTOR_GDF.dll' 'J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic'
+[Sunday Nov 06 11:25:20 2016] - GUID returned=failedtoadd
+[Sunday Nov 06 11:25:20 2016] -- AddToGameExplorerA failed
+[Sunday Nov 06 11:25:20 2016] SetupGDF complete
+[Sunday Nov 06 11:25:20 2016] Grant Access
+[Sunday Nov 06 11:25:20 2016] Adding Windows Firewall exception J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\swtor\retailclient\swtor.exe
+[Sunday Nov 06 11:25:20 2016]  - error; R1=Error ; R2=-3
+[Sunday Nov 06 11:25:20 2016] Adding Windows Firewall exception J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe
+[Sunday Nov 06 11:25:20 2016]  - error; R1=Ok ; R2=could not initialize HNetCfg.FwMgr
+[Sunday Nov 06 11:25:20 2016] Adding Windows Firewall exception J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe
+[Sunday Nov 06 11:25:20 2016]  - Sucess
+[Sunday Nov 06 11:25:20 2016] +SetupDirectX start
+[Sunday Nov 06 11:25:20 2016]  DIRECTX_INSTALL_OPTION=3
+[Sunday Nov 06 11:25:20 2016] -SetupDirectX end
+[Sunday Nov 06 11:25:20 2016] +SetupOrigin start
+[Sunday Nov 06 11:25:20 2016]  Do_InstallOrigin=0
+[Sunday Nov 06 11:25:20 2016] -SetupOrigin end
+[Sunday Nov 06 11:25:20 2016] +RunThirdPartyInstallers start
+[Sunday Nov 06 11:25:20 2016]  VS2008 Redist Check: 'SP1'
+[Sunday Nov 06 11:25:20 2016]  VS2008 Redist already installed
+[Sunday Nov 06 11:25:20 2016] -RunThirdPartyInstallers end
+[Sunday Nov 06 11:25:20 2016] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday Nov 06 11:25:20 2016] |           SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS           |
+[Sunday Nov 06 11:25:20 2016] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday Nov 06 11:25:20 2016] Main install section - END
+[Sunday Nov 06 11:25:21 2016] PageFunction_FinishPre
+[Sunday Nov 06 11:25:21 2016] +PageFunction_FinishShow start
+[Sunday Nov 06 11:25:21 2016] -PageFunction_FinishShow end
+[Sunday Nov 06 11:25:22 2016] Running "C:\Program Files (x86)\Common Files\BioWare\saferun.exe" "J:\[OTHER] Storage of Games not on SSD\Star Wars-The Old Republic\launcher.exe"
+[Sunday Nov 06 11:25:22 2016] Result 0
+[Sunday Nov 06 11:25:22 2016] .onGUIEnd
+[Sunday Nov 06 11:25:22 2016] Unloading plug-ins
+[Sunday Nov 06 11:25:22 2016] - unload nsisunrar2
+[Sunday Nov 06 11:25:22 2016] - unload NextFile
+[Sunday Nov 06 11:25:22 2016] - unload nsisDirSelect
+[Sunday Nov 06 11:25:22 2016] Removing temp files
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\SelectInstallTarget.ini
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\installmanifest.ini
+[Sunday Nov 06 11:25:22 2016] Deleting plug-ins
+[Sunday Nov 06 11:25:22 2016]  - delete C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\nsisDirSelect.dll
+[Sunday Nov 06 11:25:22 2016] Using TEMP directory C:\Users\User\AppData\Local\Temp\InstallSWTOR
+[Sunday Nov 06 11:25:22 2016] Cleaning up other temp installer support files (reboot if necessary)
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\msvcr71.dll
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\unrar.dll
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\nsx1EF6.tmp\GameuxInstallHelper.dll
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\InstallSWTOR\Installer.exe
+[Sunday Nov 06 11:25:22 2016] - C:\Users\User\AppData\Local\Temp\InstallSWTOR
+[Sunday Nov 06 11:25:22 2016] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday Nov 06 11:25:22 2016] |           STAR WARS: The Old Republic installer finished
+[Sunday Nov 06 11:25:22 2016] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
